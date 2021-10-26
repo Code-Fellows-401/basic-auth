@@ -31,9 +31,9 @@ Today, we begin the first of a 3-Phase build of an authentication system, writte
 
 ## Links to application deployment\
 
-Heroku:
+Heroku: https://basic-auth-jacob.herokuapp.com
 GitHub: https://github.com/Code-Fellows-401/basic-auth
-GitHub PR:
+GitHub PR: https://github.com/Code-Fellows-401/basic-auth/pull/1/commits/e2fe598e78a2341abad8cbf2a5d1b412a6ee8aa4
 
 ## Embedded UML\
 
