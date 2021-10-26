@@ -8,18 +8,23 @@ Created by Jacob Gregor
 npm install\
 
 "dependencies": {
-"base-64": "^1.0.0",
-"bcrypt": "^5.0.0",
-"cors": "^2.8.5",
-"dotenv": "^8.2.0",
-"express": "^4.17.1",
-"jest": "^26.6.3",
-"pg": "^8.6.0",
-"sequelize": "^6.6.2",
-"sequelize-cli": "^6.2.0",
-"sqlite3": "^5.0.2",
-"supertest": "^6.1.6"
-}\
+"base-64": "^1.0.0",\
+ "bcrypt": "^5.0.0",\
+ "cors": "^2.8.5",\
+ "dotenv": "^8.2.0",\
+ "express": "^4.17.1",\
+ "jest": "^26.6.3",\
+ "pg": "^8.6.0",\
+ "sequelize": "^6.6.2",\
+ "sequelize-cli": "^6.2.0",\
+ "sqlite3": "^5.0.2",\
+ "supertest": "^6.1.6"\
+ }\
+
+.env{
+DATABASE_URL=
+PORT=3000
+}
 
 ## Summary of Problem Domain\
 
@@ -38,7 +43,7 @@ GitHub PR: https://github.com/Code-Fellows-401/basic-auth/pull/1/commits/e2fe598
 ## Embedded UML\
 
 WhiteBaord for Lab-04:
-![whiteboard](./lib/images/api-server.png)\
+![whiteboard](./lib/images/UML.png)\
 
 ## Routes Used\
 
